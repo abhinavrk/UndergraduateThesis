@@ -1,0 +1,164 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{10}
+
+\bibitem{flow_pdf}
+Charles Campbell.
+\newblock {\em Surface Plasmon Resonance (SPR) Biosensor Development}.
+\newblock 1 edition.
+
+\bibitem{farshid_ol}
+Farshid Bahrami, J.~Stewart Aitchison, and Mo~Mojahedi.
+\newblock Multimode spectroscopy using dielectric grating coupled to a surface
+  plasmon resonance sensor.
+\newblock {\em Opt. Lett.}, 39(13):3946, 2014.
+
+\bibitem{DeepUV}
+Xu~Wang, Wei Shi, R.~Vafaei, N.A.F. Jaeger, and L.~Chrostowski.
+\newblock Silicon-on-insulator bragg gratings fabricated by deep uv
+  lithography.
+\newblock In {\em Communications and Photonics Conference and Exhibition (ACP),
+  2010 Asia}, pages 501--502, Dec 2010.
+
+\bibitem{kyser}
+D.~F. Kyser.
+\newblock Monte carlo simulation of spatially distributed beams in
+  electron-beam lithography.
+\newblock {\em J. Vac. Sci. Technol.}, 12(6):1305, 1975.
+
+\bibitem{stitch_img}
+Steve Zamek, Mercedeh Khajavikhan, Dawn T.~H. Tan, Maurice Ayache, Boris
+  Slutsky, and Yeshaiahu Fainman.
+\newblock Effects of lithographic stitching errors on the performance of
+  waveguide bragg gratings, 2011.
+
+\bibitem{stitch_signi}
+M.~Gnan, D.~S. Macintyre, M.~Sorel, R.~M. De~La~Rue, and S.~Thoms.
+\newblock Enhanced stitching for the fabrication of photonic structures by
+  electron beam lithography.
+\newblock {\em Journal of Vacuum Science \& Technology B: Microelectronics and
+  Nanometer Structures}, 25(6):2034, 2007.
+
+\bibitem{UVNI_paper}
+Yi~Wen Zhang, Lei Wang, Yong~Lin Yu, Ding~Li Wang, Ning Zhou, and Wen Liu.
+\newblock High quality bragg gratings fabricated by nanoimprint lithography.
+\newblock {\em J. Phys.: Conf. Ser.}, 276:012104, 2011.
+
+\bibitem{sexy_des_method}
+Zhaoning Yu, Lei Chen, Wei Wu, Haixiong Ge, and Stephen~Y. Chou.
+\newblock Fabrication of nanoscale gratings with reduced line edge roughness
+  using nanoimprint lithography.
+\newblock {\em Journal of Vacuum Science \& Technology B: Microelectronics and
+  Nanometer Structures}, 21(5):2089, 2003.
+
+\bibitem{plasmon_future_bio}
+Alexandre~G. Brolo.
+\newblock Plasmonics for future biosensors.
+\newblock {\em Nature Photonics}, 6(11):709--713, 2012.
+
+\bibitem{cd40}
+Paolo De~Paoli, Marzia Cozzi, Rosamaria Tedeschi, Annunziata Gloghini,
+  Anna~Maria Cilia, Cees van Kooten, Gianluca Gaidano, and Antonino Carbone.
+\newblock High cd40 membrane expression in aids-related lymphoma b cell lines
+  is associated with the cd45ra+, cd45ro+, cd95+ phenotype and high levels of
+  its soluble form in culture supernatants.
+\newblock {\em Cytometry}, 30(1):33--38, 1997.
+
+\bibitem{SPR_sensor_review}
+Jiri Homola, Sinclair~S. Yee, and Gunter Gauglitz.
+\newblock Surface plasmon resonance sensors: review.
+\newblock {\em Sensors and Actuators B: Chemical}, 54(1-2):3--15, 1999.
+
+\bibitem{ATR_book}
+Milan Milosevic.
+\newblock {\em Internal reflection and ATR spectroscopy}.
+\newblock John Wiley and amp, 2012.
+
+\bibitem{ref_index_db}
+Refractive index database.
+\newblock \url{http://refractiveindex.info/}.
+\newblock Accessed: 2015-02-08.
+
+\bibitem{complete_sp_coupling}
+J.~R. Sambles, G.~W. Bradbery, and Fuzi Yang.
+\newblock Optical excitation of surface plasmons: An introduction.
+\newblock {\em Contemporary Physics}, 32(3):173--183, 1991.
+
+\bibitem{sp_coupling_2}
+Jiri´ Homola, Ivo Koudela, and Sinclair~S. Yee.
+\newblock Surface plasmon resonance sensors based on diffraction gratings and
+  prism couplers: sensitivity comparison.
+\newblock {\em Sensors and Actuators B: Chemical}, 54(1-2):16--24, 1999.
+
+\bibitem{app_dig_opt}
+Bernard~C Kress and Patrick Meyrueis.
+\newblock {\em Applied digital optics}.
+\newblock Wiley, 2009.
+
+\bibitem{farshid_conf}
+F.~Bahrami, J.S. Aitchison, and M.~Mojahedi.
+\newblock A highly optimized plasmon waveguide resonance biosensor.
+\newblock In {\em Photonics Conference (IPC), 2012 IEEE}, pages 208--209, Sept
+  2012.
+
+\bibitem{CSF_def}
+F.~Bahrami, M.~Z. Alam, J.~S. Aitchison, and M.~Mojahedi.
+\newblock Dual polarization measurements in the hybrid plasmonic biosensors.
+\newblock {\em Plasmonics}, 8(2):465--473, 2012.
+
+\bibitem{mask_ind}
+Greg Hughes and Henry Yun.
+\newblock Mask industry assessment: 2009.
+\newblock volume 7488, pages 748803--748803--13, 2009.
+
+\bibitem{UVL_intro}
+Kimberly~L. Berkowski, Kyle~N. Plunkett, Qing Yu, and Jeffrey~S. Moore.
+\newblock Introduction to photolithography: Preparation of microscale polymer
+  silhouettes.
+\newblock {\em Journal of Chemical Education}, 82(9):1365, 2005.
+
+\bibitem{chang}
+T.~H.~P. Chang.
+\newblock Proximity effect in electron-beam lithography.
+\newblock {\em J. Vac. Sci. Technol.}, 12(6):1271, 1975.
+
+\bibitem{PEC}
+Richard Rau.
+\newblock Proximity effect correction for nanolithography.
+\newblock {\em Journal of Vacuum Science \& Technology B: Microelectronics and
+  Nanometer Structures}, 14(4):2445, 1996.
+
+\bibitem{microchem_man}
+microchem.com.
+\newblock ma-n 2400 negative tone photoresist series.
+
+\bibitem{TNFC_rec}
+Tnfc.utoronto.ca.
+\newblock ma-n 2400 series resist.
+
+\bibitem{tnfc_ebeam}
+Tnfc.utoronto.ca.
+\newblock Electron beam lithography | tnfc | toronto nanofabrication centre.
+
+\bibitem{bosch}
+Banqiu Wu, Ajay Kumar, and Sharma Pamarthy.
+\newblock High aspect ratio silicon etch: A review.
+\newblock {\em J. Appl. Phys.}, 108(5):051101, 2010.
+
+\bibitem{bosch1}
+Azonano.com.
+\newblock Comparison of the bosch and a cryogenically cooled deep silicon etch
+  processes.
+
+\bibitem{tnfc_drie}
+Tnfc.utoronto.ca.
+\newblock Wet \& plasma etching | tnfc | toronto nanofabrication centre.
+
+\bibitem{quantum}
+Giuliana Di~Martino, Yannick Sonnefraud, Stephane Kena-Cohen, Mark Tame,
+  Sahin~K. Ozdemir, M.~S. Kim, and Stefan~A. Maier.
+\newblock Quantum statistics of surface plasmon polaritons in metallic stripe
+  waveguides.
+\newblock {\em Nano Letters}, 12(5):2504--2508, 2012.
+
+\end{thebibliography}

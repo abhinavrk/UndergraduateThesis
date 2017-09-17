@@ -1,0 +1,27 @@
+%% This is an example first chapter.  You should put chapter/appendix that you
+%% write into a separate file, and add a line \include{yourfilename} to
+%% main.tex, where `yourfilename.tex' is the name of the chapter/appendix file.
+%% You can process specific files by typing their names in at the 
+%% \files=
+%% prompt when you run the file main.tex through LaTeX.
+
+
+\chapter{Introduction}
+
+A plasmon is a quantized unit of plasma vibration much like the phonon for mechanical excitations. Plasmonics is the study of these vibrations, particularly those arising from the coupling of light to free electrons in metals. An example would be the excitation of Surface Plasmon Polaritons (SPPs): by using light at the resonance frequency (matching k-vectors) any free electrons can be made to oscillate as a whole. SPPs are essentially guided surface waves (directed parallel to the metal interface) akin to light inside a fiber optic cable. This coupling of light to electrons in metals is inherently interesting since it allows for the breaking of the diffraction limit for the localization of light, thus allowing for light at higher wavelengths to resolve sub-wavelength features. Resonant excitations of SPPs known as `Surface Plasmon Resonance' (SPR), are sensitive to variations in refractive index of various materials and as such could be very useful in bio-sensing applications.
+
+
+An extremely useful feature of the SPR technique is the ability to detect extremely small refractive index variations near an interface. A sensor exploiting this ability is known as an affinity SPR sensor. Such sensors can be especially useful when dealing with bio-molecules since the concentrations of the molecules of interest are in the femtomolar range causing the time for analysis to be unfeasible. Over the years many improvements have been made regarding the use of affinity SPR sensors and it was found that the time for analysis could be reduced significantly by using a flow-through geometry wherein the analyte solution was passed over the sensing surface \cite{plasmon_future_bio}.
+
+
+Strictly speaking, in using the affinity sensor one simply aims to extract information regarding a thin bio-layer (adlayer) formed whilst using the flow-through geometry. However, the information required is coupled to other extraneous factors that cannot be separated as is. This arises from the evanescent-like nature of the SPP wave and its appreciable interaction with media beyond the thin adlayer (such as the bulk analyte solution itself). To this end a novel approach was suggested using a dielectric grating-based SPR (DGSPR) excitation. The DGSPR basically involves exciting 3 SPR modes instead of 1, hence gathering more data which could be used to decouple the useful information from the extraneous factors, consequently resulting in more accurate sensor measurements \cite{farshid_ol}. 
+
+This thesis focuses on optimizing the existing DGSPR sensor's design with respect to general operating, manufacturing, and cost constraints; selecting a specific manufacturing method to use to fabricate the optimized DGSPR sensor; and optimizing the method used to fabricate the DGSPR sensor (in this case nano-imprint lithography was chosen) as much as possible within the given time constraints. 
+
+Fundamental to nano-imprint lithography is the concept of a master mold. The master mold is essentially a nano-scale stamp that can be pressed into a Silicon wafer to transfer a pattern. Due to the crucial nature of the master mold, this thesis focuses on the making of the master mold after which further work is needed on optimizing the stamping procedure (on which significant research has been done). With regard to the master mold, it is imperative that the pattern have the right dimensions, and that the side-walls, of the mold's grating structure, be smooth. 
+
+First, the pattern to be imprinted in the Silicon wafer is to be transferred to the master mold. This was done using electron beam lithography with attention being given to proximity effect correction (PEC). Due to the resist used in the fabrication process (ma-N), the PEC could not be done at the software end of the lithography process and was instead done manually by varying the beam current. The actual etching of the pattern was done using a variant of Deep Reactive Ion Etching (DRIE) known as the Pseudo Bosch process. This resulted in a master mold that could in turn be used in nano-imprint lithography to generate the final DGSPR structure. In this thesis, due to both time and cost constraints, only a proof-of-concept prototype of the master mold was fabricated. This was sufficient to optimize the various individual processes used for fabrication. 
+	
+A working master mold should allow for a working prototype which should in turn allow for the quick and easy diagnosis of a variety of diseases including AIDS (perhaps by monitoring CD40 membrane expression \cite{cd40}). Such a device would have great use in the diagnosis and treatment of disease in countries such as Africa and India, where testing and monitoring for disease is usually unaffordable and time consuming for the general masses.  
+
+
